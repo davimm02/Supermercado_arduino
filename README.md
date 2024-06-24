@@ -4,7 +4,7 @@ A ideia base para este projeto é criar um sensor ultrassônico que mede a dist�
 
 Esboço Inicial
 A primeira coisa que fiz foi planejar minha placa no TinkerCAD. O esboço inicial do projeto ficou assim:
-<img src="supermercado_sim">
+<img src="supermercado_sim.png">
 
 
 
